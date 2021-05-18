@@ -3,7 +3,6 @@
     <p>
       menu
     </p>
-
   </div>
 </template>
 
